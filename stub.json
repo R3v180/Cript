@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Desarrolla una aplicación web para encriptar y desencriptar tanto texto como imágenes y archivos como audios","md5":"bee394238343b5d1d2bae7e7f292fa55"}]}
